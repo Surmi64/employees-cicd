@@ -7,3 +7,4 @@ Second edit to push
 Remote change to pull    
 Remote change to fetch    
 Remote change to cause merge conflict    
+Local change to test stash
