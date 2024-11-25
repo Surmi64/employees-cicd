@@ -6,4 +6,4 @@ Diff of README file
 Second edit to push    
 Remote change to pull    
 Remote change to fetch    
-Local change to cause merge conflict    
+Remote change to cause merge conflict    
