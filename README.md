@@ -7,6 +7,7 @@ Second edit to push
 Remote change to pull    
 Remote change to fetch    
 Remote change to cause merge conflict    
-Local change to test stash
-Branch merge conflict local on masterR
-Branch merge conflict local on master mergEE
+Local change to test stash     
+Branch merge conflict local on masterR     
+Branch merge conflict local on master mergEE     
+Change 1    
