@@ -10,4 +10,5 @@ Remote change to cause merge conflict
 Local change to test stash     
 Branch merge conflict local on masterR     
 Branch merge conflict local on master mergEE     
-Change 1    
+Change 1   
+Amend prep      
