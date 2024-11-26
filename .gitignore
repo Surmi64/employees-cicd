@@ -7,3 +7,4 @@ src/employees/__pycache__/repo.cpython-313.pyc
 src/employees/__pycache__/restcontrollers.cpython-313.pyc
 src/employees/__pycache__/webcontrollers.cpython-313.pyc
 build/*
+ruff_report*
