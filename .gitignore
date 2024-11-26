@@ -1,3 +1,8 @@
 venv
 .env
 .git
+*.egg-info
+src/employees/__pycache__/__init__.cpython-313.pyc
+src/employees/__pycache__/repo.cpython-313.pyc
+src/employees/__pycache__/restcontrollers.cpython-313.pyc
+src/employees/__pycache__/webcontrollers.cpython-313.pyc
