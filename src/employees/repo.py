@@ -1,8 +1,16 @@
+"""
+Ez az alkalmázs repo rétege
+"""
+
 import psycopg
 from flask import current_app
 
 
 def sql(funct):
+    """
+    Ez kinyit egy _adatbázis_ kapcsolatot
+    """
+
     def wrap_function(*args, **kwargs):
         host = current_app.config.get("DATABASE_HOST")
         with psycopg.connect(
